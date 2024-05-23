@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+tqdm
+python-dotenv
+tensorflow-datasets
+wandb
+
